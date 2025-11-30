@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BlackShield Private Car Service</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="icon" href="favicon/favicon.ico" />
+  <script src="assets/js/device-detect.js" defer></script>
+</head>
+
+<body>
+
+  <header>
+    <img src="assets/img/logo.png" alt="BlackShield Logo" class="logo">
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Premium Private Car Service</h1>
+      <p>Hourly • Daily • Corporate • Executive • High-Security</p>
+      <div class="download-buttons">
+        <a id="apple-btn" href="#" class="store-btn apple">Download for iPhone</a>
+        <a id="android-btn" href="#" class="store-btn android">Download for Android</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="info">
+    <h2>Luxury Transportation. On Your Terms.</h2>
+    <p>
+      BlackShield provides premium executive and protective transportation with professional drivers, 
+      luxury vehicles, and elite service. Available for hourly bookings, full-day service, and corporate accounts.
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 BlackShield Transport Group</p>
+    <a href="privacy.html">Privacy Policy</a> •
+    <a href="terms.html">Terms of Service</a>
+  </footer>
+
+</body>
+</html>
